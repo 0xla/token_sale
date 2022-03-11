@@ -1,0 +1,23 @@
+{
+  "name": "catrix-token-sale",
+  "version": "1.0.0",
+  "description": "catrix token sale ico",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test",
+    "dev": "lite-server"
+  },
+  "author": "\"Lakshya\"",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "polymer-cli": "^1.9.11"
+  },
+  "dependencies": {
+    "@metamask/detect-provider": "^1.2.0",
+    "@truffle/hdwallet-provider": "^2.0.0"
+  }
+}
